@@ -1,4 +1,4 @@
-# personal-project
+# Fixing Solutions (ongoing)
 
 > A Vue.js project
 
